@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://www.boot.dev/certificates/96f5bffa-de4e-40a8-943c-5af20169c322](https://www.boot.dev/certificates/96f5bffa-de4e-40a8-943c-5af20169c322)" >
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/96f5bffa-de4e-40a8-943c-5af20169c322.jpeg?v=1775565272" >
 </p>
 
 <p align="center">
