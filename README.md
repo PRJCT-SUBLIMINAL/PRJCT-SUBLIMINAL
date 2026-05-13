@@ -10,6 +10,10 @@
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fd1a9d4d-4587-4fd2-91d7-c0814f224238.jpeg?v=1778617396" >
 </p>
 
+<p>
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e5a550b3-25cb-4081-9ea7-3cdc2ad3f806.jpeg?v=1778690483" >
+</p>
+
 <p align="center">
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/afeea2b1-db1d-41ee-b6ec-3c04af6dc84a.jpeg?v=1773486253" >
 </p>
