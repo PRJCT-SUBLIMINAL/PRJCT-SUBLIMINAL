@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a9e2845e-091d-4cf3-93e7-d89f7c6f67fa.jpeg?v=1775144184" >
+</p>
+
+<p align="center">
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e9b9b70d-a021-48aa-a3a7-068cd7978467.jpeg?v=1773529985" >
 </p>
 
