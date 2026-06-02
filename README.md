@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b32b52d2-b3c1-4d8c-9106-1646e9fcf822.jpeg?v=1780426914" >
+</p>
+
+<p align="center">
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e9b9b70d-a021-48aa-a3a7-068cd7978467.jpeg?v=1773529985" >
 </p>
 
