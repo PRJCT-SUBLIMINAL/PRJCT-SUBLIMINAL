@@ -31,6 +31,10 @@
 </p>
 
 <p align="center">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/82d72117-f3eb-42df-a51d-ed85b0731b24.jpeg?v=1781548347" >
+</p>
+
+<p align="center">
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/6a0a7cf2-12cb-4cec-944f-99f1910a3cc5.jpeg?v=1781198408" >
 </p>
 
